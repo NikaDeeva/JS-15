@@ -1,0 +1,28 @@
+#country{
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: grey;
+    font-size: 14px;
+    margin: 20px;
+}
+.countryDataName{
+    text-align: center;
+    font-size: 32px;
+    padding: 25px;
+}
+.countryData{
+    display: flex;
+    justify-content: center;
+}
+.countryDataList{
+    list-style: none;
+}
+.countryDataItem{
+    font-size: 24px;
+    margin: 15px;
+    font-weight: 500;
+}
+.countryFlag{
+    max-width: 300px;
+    margin: 0 auto;
+}
